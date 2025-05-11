@@ -1,0 +1,17 @@
+SCRAPPING/assets
+
+*.env
+
+# Ignorar archivo de proxies
+proxies.py
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.env
+*.log
+checkpoint.txt
+
+.zip   
