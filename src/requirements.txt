@@ -14,11 +14,6 @@ sqlalchemy>=2.0.38
 sympy>=1.10.1
 xgboost
 transformers
-pickle
-joblib
-os
-time
-csv
 request
 selenium
 random
