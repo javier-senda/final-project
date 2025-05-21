@@ -18,3 +18,5 @@ selenium
 openpyxl
 ipykernel
 streamlit
+pytorch 
+tensorflow 
