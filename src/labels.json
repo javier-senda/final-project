@@ -1,0 +1,114 @@
+{
+    "remote": [
+        "The position allows remote work.",
+        "This is a fully remote job.",
+        "You can work from anywhere."
+    ],
+    "permanent_contract": [
+        "The job offers a permanent contract.",
+        "This is a full-time position."
+    ],
+    "freelance": [
+        "This job is freelance.",
+        "The position is for an independent contractor."
+    ],
+    "bonuses": [
+        "The job offers performance bonuses.",
+        "You will receive bonuses based on results.",
+        "There are financial incentives in this position."
+    ],
+    "career_development": [
+        "There are opportunities for professional growth.",
+        "The company supports career development."
+    ],
+    "immediate_start": [
+        "The job requires immediate start.",
+        "The position must be filled urgently.",
+        "The company is looking for someone to start right away."
+    ],
+    "startup": [
+        "The company is a startup.",
+        "You will be working in a fast-growing new company.",
+        "The role is at an early-stage company."
+    ],
+    "multinational": [
+        "The company operates in multiple countries.",
+        "This is a multinational organization.",
+        "The employer has offices worldwide."
+    ],
+    "consulting_or_outsourcing": [
+        "The job is in a consulting company.",
+        "You will work in an outsourcing services firm.",
+        "The company provides external services to clients."
+    ],
+    "experience_gt_5": [
+        "You need more than five years of experience.",
+        "The job requires at least 5 years of work experience.",
+        "Senior professionals with over 5 years of experience are needed."
+    ],
+    "intern": [
+        "The position is for an intern.",
+        "The role is aimed at students or recent graduates."
+    ],
+    "junior": [
+        "The position is at junior level.",
+        "This role is for someone starting their career."
+    ],
+    "senior": [
+        "This is a senior position.",
+        "The job requires significant experience."
+    ],
+    "lead": [
+        "You will lead a team.",
+        "The position is for a technical or team lead.",
+        "You are expected to guide other professionals."
+    ],
+    "principal_or_manager": [
+        "You will manage a department or team.",
+        "This is a managerial role.",
+        "You are responsible for strategic decisions."
+    ],
+    "higher_education": [
+        "A university degree is required.",
+        "The role requires a bachelor's, master's, or PhD."
+    ],
+    "certifications_required": [
+        "Professional certifications are required.",
+        "You need official credentials or certifications."
+    ],
+    "software_development": [
+        "The job is in software development.",
+        "You will be writing code or developing software.",
+        "The role involves programming."
+    ],
+    "data_science_ml": [
+        "The position is in data science.",
+        "Machine learning is a part of this job.",
+        "You will analyze data or build ML models."
+    ],
+    "cybersecurity": [
+        "The job is in cybersecurity.",
+        "The role involves protecting systems and data.",
+        "You will handle security threats."
+    ],
+    "qa_testing": [
+        "You will be testing software for quality.",
+        "The job involves quality assurance.",
+        "You will perform tests to find bugs."
+    ],
+    "it_support_infrastructure": [
+        "The job involves IT support.",
+        "You will maintain computer systems and networks.",
+        "Infrastructure management is part of the role."
+    ],
+    "project_product_management": [
+        "The role involves managing projects or products.",
+        "You will be a product or project manager.",
+        "The position requires planning and coordination."
+    ],
+    "ux_ui_design": [
+        "The job is in UX or UI design.",
+        "You will design user interfaces or experiences.",
+        "The role focuses on user-centered design."
+    ]
+}
