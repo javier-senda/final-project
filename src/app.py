@@ -44,7 +44,9 @@ def obtener_informacion_descripcion(descripcion, labels):
             st.warning(f"⚠️ Error procesando categoría '{category}': {e}")
             score = 0.0
         result_dict[category] = [score]
-    return pd.DataFrame(result_dict)
+    result_df = pd.DataFrame(result_dict)
+    st.write("📊 Puntuaciones de cada categoría:", result_df)  # Muestra el dataframe con las puntuaciones
+    return result_df
 
 # Función para predecir el salario
 def predecir_salario(df_unificado, xgboost_model):
