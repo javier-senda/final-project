@@ -17,3 +17,5 @@ checkpoint.txt
 .zip   
 
 *.csv
+*.xls
+*.xlsx
