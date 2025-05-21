@@ -1,6 +1,6 @@
 # SALARY PREDICTOR
 
-Este proyecto predice el salario que deberia tener una oferta de trabajo segun la descripcion de la oferta.
+Este proyecto estima el salario correspondiente a una oferta de trabajo en función de su descripción.
 
 ## Estructura
 
