@@ -14,3 +14,4 @@ transformers==4.28.1
 torch==2.1.0 
 streamlit
 joblib 
+hf_xet
