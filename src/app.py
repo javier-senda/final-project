@@ -9,13 +9,13 @@ st.title("Aplicación de predicción de salario en LinkedIn")
 
 # Cargar modelos con manejo de errores
 try:
-    nlp_model = pipeline("zero-shot-classification", model="facebook/bart-large-mnli", device=-1)
+    nlp_model = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
 except Exception as e:
     st.error(f"❌ Error al cargar el modelo NLP: {e}")
     st.stop()
 
 try:
-    xgboost_model = joblib.load('mejor_modelo.pkl')
+    xgboost_model = joblib.load('xgboost_model.pkl')
 except Exception as e:
     st.error(f"❌ Error al cargar el modelo XGBoost: {e}")
     st.stop()
