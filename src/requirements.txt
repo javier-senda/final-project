@@ -17,3 +17,6 @@ transformers
 selenium
 openpyxl
 ipykernel
+streamlit
+
+tensorflow 
