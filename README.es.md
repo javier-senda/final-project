@@ -56,12 +56,12 @@ This project combines **data extraction**, **web scraping**, **NLP (BERT)**, **f
 
 ## 🛠️ Tech Stack
 
-- **Python 3.10+**
+- **Python**
 - **Scikit-learn**
 - **XGBoost**
 - **Transformers (BERT)**
 - **Pandas, NumPy**
-- **BeautifulSoup + Requests**
+- **Selenium + Requests**
 - **Streamlit**
 - **Render (for deployment)**
 
