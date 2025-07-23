@@ -61,7 +61,7 @@ This project combines **data extraction**, **web scraping**, **NLP (BERT)**, **f
 
 ---
 
-## 📸 App Demo (optional)
+## 📸 App Demo 
 
 📍 *Live demo:* (https://final-project-kp5r.onrender.com/)
 
