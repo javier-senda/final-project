@@ -16,19 +16,6 @@ This project combines **data extraction**, **web scraping**, **NLP (BERT)**, **f
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Python 3.10+**
-- **Scikit-learn**
-- **XGBoost**
-- **Transformers (BERT)**
-- **Pandas, NumPy**
-- **BeautifulSoup + Requests**
-- **Streamlit**
-- **Render (for deployment)**
-
----
-
 ## 🔄 Workflow Summary
 
 ### 1. 🔗 Data Collection
@@ -67,6 +54,18 @@ This project combines **data extraction**, **web scraping**, **NLP (BERT)**, **f
 
 ---
 
+## 🛠️ Tech Stack
+
+- **Python 3.10+**
+- **Scikit-learn**
+- **XGBoost**
+- **Transformers (BERT)**
+- **Pandas, NumPy**
+- **BeautifulSoup + Requests**
+- **Streamlit**
+- **Render (for deployment)**
+
+---
 
 ## 📁 Project Structure
 
