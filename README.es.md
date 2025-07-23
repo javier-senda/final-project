@@ -68,25 +68,24 @@ This project combines **data extraction**, **web scraping**, **NLP (BERT)**, **f
 ---
 
 
-## 📁 Structure
+## 📁 Project Structure
 
 The project is organized as follows:
 
-src/app.py → Main Python script where the application runs.
-
-src/explore.ipynb → Jupyter notebook for exploration and experimentation. Once finalized, clean code should be migrated to app.py.
-
-src/utils.py → Auxiliary functions, such as database connections.
-
-requirements.txt → List of required Python packages.
-
-models/ → Contains your SQLAlchemy model classes.
-
-data/ → Stores datasets in different stages:
-
-data/raw/ → Raw, unprocessed data.
-
-data/interim/ → Temporarily transformed data.
-
-data/processed/ → Final datasets ready for analysis.
+📦 salary-prediction-nlp
+├── src/
+│ ├── app.py # Main Python script where the application runs
+│ ├── explore.ipynb # Jupyter notebook for EDA and experimentation
+│ └── utils.py # Helper functions (e.g., DB connections)
+│
+├── models/ # SQLAlchemy model classes (if using a DB)
+│
+├── data/ # Datasets organized by processing stage
+│ ├── raw/ # Raw, unprocessed data
+│ ├── interim/ # Temporarily transformed data
+│ └── processed/ # Final, analysis-ready datasets
+│
+├── requirements.txt # List of required Python packages
+├── app.py # Entry point for Streamlit app (if placed outside src)
+└── README.md # Project documentation
 
