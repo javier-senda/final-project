@@ -68,21 +68,25 @@ This project combines **data extraction**, **web scraping**, **NLP (BERT)**, **f
 ---
 
 
-## Estructura
+## 📁 Structure
 
-El proyecto está organizado de la siguiente manera:
+The project is organized as follows:
 
-- **`src/app.py`** → Script principal de Python donde correrá tu proyecto.
-- **`src/explore.ipynb`** → Notebook para exploración y pruebas. Una vez finalizada la exploración, migra el código limpio a `app.py`.
-- **`src/utils.py`** → Funciones auxiliares, como conexión a bases de datos.
-- **`requirements.txt`** → Lista de paquetes de Python necesarios.
-- **`models/`** → Contendrá tus clases de modelos SQLAlchemy.
-- **`data/`** → Almacena los datasets en diferentes etapas:
-  - **`data/raw/`** → Datos sin procesar.
-  - **`data/interim/`** → Datos transformados temporalmente.
-  - **`data/processed/`** → Datos listos para análisis.
+src/app.py → Main Python script where the application runs.
 
+src/explore.ipynb → Jupyter notebook for exploration and experimentation. Once finalized, clean code should be migrated to app.py.
 
-## link de la aplicación 
+src/utils.py → Auxiliary functions, such as database connections.
 
-https://final-project-kp5r.onrender.com/
+requirements.txt → List of required Python packages.
+
+models/ → Contains your SQLAlchemy model classes.
+
+data/ → Stores datasets in different stages:
+
+data/raw/ → Raw, unprocessed data.
+
+data/interim/ → Temporarily transformed data.
+
+data/processed/ → Final datasets ready for analysis.
+
