@@ -63,17 +63,9 @@ This project combines **data extraction**, **web scraping**, **NLP (BERT)**, **f
 
 ## 📸 App Demo (optional)
 
-![App Screenshot](screenshot.png)  
-📍 *Live demo:* [Insert Render URL here]
+📍 *Live demo:* (https://final-project-kp5r.onrender.com/)
 
 ---
-
-## ▶️ Getting Started
-
-### 1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/salary-prediction-nlp.git
-cd salary-prediction-nlp
 
 
 ## Estructura
