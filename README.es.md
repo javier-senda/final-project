@@ -72,5 +72,20 @@ This project combines **data extraction**, **web scraping**, **NLP (BERT)**, **f
 
 The project is organized as follows:
 
-<pre><code> ## 📁 Project Structure The project is organized as follows: ``` salary-prediction-nlp/ ├── src/ │ ├── app.py # Main Python script where the application runs │ ├── explore.ipynb # Jupyter notebook for EDA and experimentation │ └── utils.py # Helper functions (e.g., DB connections) │ ├── models/ # SQLAlchemy model classes (if using a DB) │ ├── data/ # Datasets organized by processing stage │ ├── raw/ # Raw, unprocessed data │ ├── interim/ # Temporarily transformed data │ └── processed/ # Final, analysis-ready datasets │ ├── requirements.txt # List of required Python packages ├── app.py # Entry point for Streamlit app (if placed outside src) └── README.md # Project documentation ``` </code></pre>
+salary-prediction-nlp/
+  src/
+    app.py              # Main Python script where the application runs
+    explore.ipynb       # Jupyter notebook for EDA and experimentation
+    utils.py            # Helper functions (e.g., DB connections)
+
+  models/               # SQLAlchemy model classes (if using a DB)
+
+  data/                 # Datasets organized by processing stage
+    raw/                # Raw, unprocessed data
+    interim/            # Temporarily transformed data
+    processed/          # Final, analysis-ready datasets
+
+  requirements.txt      # List of required Python packages
+  app.py                # Entry point for Streamlit app (if placed outside src)
+  README.md             # Project documentation
 
