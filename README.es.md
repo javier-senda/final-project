@@ -72,7 +72,7 @@ This project combines **data extraction**, **web scraping**, **NLP (BERT)**, **f
 
 The project is organized as follows:
 
-salary-prediction-nlp/
+```salary-prediction-nlp/
 ├── src/
 │ ├── app.py # Main Python script where the application runs
 │ ├── explore.ipynb # Jupyter notebook for EDA and experimentation
@@ -86,5 +86,5 @@ salary-prediction-nlp/
 │ └── processed/ # Final, analysis-ready datasets
 │
 ├── requirements.txt # List of required Python packages
-└── README.md # Project documentation
+└── README.md # Project documentation``` 
 
